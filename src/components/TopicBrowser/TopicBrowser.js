@@ -12,7 +12,6 @@ class TopicBrowser extends Component {
    render(){
     return (
         <div>
-        <p>Hello World</p>
         <EvenAndOdd />
         <FilterObject />
         <FilterString />
