@@ -12,7 +12,6 @@ function EvenAndOdd() {
 
     function solveInput(event){
         event.preventDefault();
-        console.log("split")
         let nums = inputValue.split(',');
         let evens = [];
         let odds = [];

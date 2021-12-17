@@ -1,14 +1,11 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 
-// function EvenAndOdd() {
-//     return(<p>EvenAndOdd</p>)
-// }
-
-class Sum extends Component{
-    render(){
-        return(<p>Sum</p>)
+export default class Sum extends Component {
+    render() {
+        return (
+            <div>
+                
+            </div>
+        )
     }
 }
-
-
-export default Sum;
